@@ -1,0 +1,7 @@
+Factura
+ca
+ca
+Precio neto: 46100
+Precio IVA: 8759
+Precio total: 54859
+Nombre combo corralPrecio 22050Combo ajustado combo corralPrecio 24050
